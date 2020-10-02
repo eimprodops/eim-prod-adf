@@ -1,0 +1,7 @@
+{
+	"name": "eim-prod-ir",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "EIM Prod ADF Integration Runtime"
+	}
+}
